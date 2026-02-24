@@ -1,4 +1,4 @@
 # Amazon-clone
 This is my first Git Repository.
 <br>
-Auther - Rachana GK
+Auther - Rachana GK.
